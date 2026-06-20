@@ -1,4 +1,6 @@
- para 
+---
+name habilidade clinica
+---
 # Habilidades e Responsabilidades do WebApp de Gestão Clínica
 ## 1. Gestão de Pacientes
  * Cadastro detalhado de pacientes, incluindo histórico completo, dados de contato e informações de emergência.
