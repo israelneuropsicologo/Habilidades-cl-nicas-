@@ -1,5 +1,5 @@
 ---
-name habilidade clinica
+name: Habilidade Clínica 
 ---
 # Habilidades e Responsabilidades do WebApp de Gestão Clínica
 ## 1. Gestão de Pacientes
